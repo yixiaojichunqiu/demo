@@ -6,7 +6,7 @@
             "Summary":"测试",
             "Chart01":{
                 "ChartName":"测试数据",
-                "TotalNum":null,
+                "TotalNum":"",
                 "Unit":"人",
                 "Data":[
                     {
